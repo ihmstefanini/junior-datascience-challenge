@@ -6,8 +6,8 @@ Sugerimos que você **leia com bastante atenção** a todos as etapas, critério
 
 ## 1.1 Objetivo do desafio
 
-Avaliar de forma qualitativa quais são os pontos fortes e os pontos de gaps do candidato a vaga.
-A intenção do desafio não é de carácter eliminatório, mas sim uma forma mais pragmática de prover para o RH e os líderes da ihm informações sobre a experiência que você já tem na área. 
+Avaliar de forma **qualitativa** quais são os pontos fortes e os pontos de gaps do candidato à vaga.
+O desafio não tem o intuito de ser de carácter eliminatório, mas sim uma forma mais pragmática de prover para o RH e os líderes da ihm stefanini informações sobre a experiência que você já tem na área. 
 
 ## 1.2 Etapas do desafio
 
@@ -24,7 +24,7 @@ O desafio se divide nas seguintes etapas:
  
 ## 1.3 Critérios de avaliação mais relevantes
 
-Atenção! Pois os critérios são bem mais voltados para as soft skills do que as hard skills. Apesar de as hard skills serem base para que você possa gerar os *outcomes* necessários para demonstrar suas habilidades.
+**Atenção!** Pois os critérios são bem mais voltados para as **soft skills** do que as hard skills. Apesar de as hard skills serem base para que você possa gerar os *outcomes* necessários para demonstrar suas habilidades.
 
 Iremos nos preocupar muito mais com:
 1. Nível de organização e sequência lógica de exploração dos dados
@@ -35,24 +35,26 @@ Iremos nos preocupar muito mais com:
 
 ## 1.4 Critérios que não preocupamos tanto nessa etapa
 
-Performance de modelo. É isso mesmo que você está lendo! Parece contraintuitivo, mas não estamos preocupado em você conseguir fazer um super modelo com mega performance, até porque esse modelo não será colocado em produção, então, não há necessidade de se preocupar demais com isso e gastar todo o tempo do desafio com isso. 
+**Performance de modelo** 
 
-Sim, esperamos que você faça um modelo razoável, mas não "frite" com isso. Lembre dos principais critérios que estamos nos preocupando mais em te avaliar, conforme descrito no item anterior.
+É isso mesmo que você está lendo! Parece contraintuitivo, mas não estamos preocupado em você conseguir fazer um super modelo com mega performance, até porque esse modelo não será colocado em produção, então, não há necessidade de se preocupar demais com isso e gastar todo o tempo do desafio com isso. 
+
+Sim, **esperamos que você faça um modelo razoável**, mas não "frite" os neurônios com isso. Lembre dos principais critérios que estamos nos preocupando mais em te avaliar (soft skills), conforme descrito no item anterior.
 
 ## 1.5 Requisitos mínimos
 
 Para realizar o desafio, você precisa cumprir os seguintes requisitos:
 
 
-1. Linguagem de programação 100% Python
+1. **Linguagem de programação 100% Python**
 1. Escolha da IDE: livre escolha. Pode usar Jupyter, VSCode, Pycharm...
 1. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
 1. Apresentação em formato ppt
 
 
-## 1.6 Prazos e Submissão final
+## 1.6 Entregáveis, Prazos e Submissão final
 
-1. Utilizar o git para clonar e subir a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb;
+1. **Submeter via github** a versão final do(s) seu(s) código(s) em formato *.py e/ou *.ipynb via github;
 1. Utilizar o git também para enviar o arquivo da sua apresentação;
 1. Submeter em uma nova *branch* que segue o seguinte padrão: junior-datascientist-challenge-xxxxxxxx (onde x representa o seu nome e sobrenome juntos, sem acento e com caracteres minúsculos). Exemplo: junior-datascientist-challenge-eduardomagalhaes
 1. Prazo inicial de **até 03 semanas**, a contar a partir da data em que você recebeu o email de convocação para o desafio;
