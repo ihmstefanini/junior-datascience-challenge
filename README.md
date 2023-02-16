@@ -34,7 +34,7 @@ Iremos avaliar com bastante critério (em ordem de relevância maior para menor)
 5. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
 6. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
 
-## 1.4 Critérios que **NãO nos preocupamos tanto** nessa etapa
+## 1.4 Critérios que **Não nos preocupamos tanto** nessa etapa
 
 **Performance de modelo** 
 
