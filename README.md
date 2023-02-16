@@ -48,8 +48,9 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 1. **Linguagem de programação 100% Python**
 1. Escolha da IDE: VSCode ou Pycharm (não aceitaremos os códigos em formato *.ipynb - Jupyter Notebook)
-1. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
-1. Apresentação em formato PowerPoint
+2. Escolha do git: livre escolha
+3. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
+4. Apresentação em formato PowerPoint
 
 
 ## 1.6 Entregáveis, Prazos e Submissão final
