@@ -24,16 +24,18 @@ O desafio se divide nas seguintes etapas:
  
 ## 1.3 Critérios de avaliação mais relevantes
 
-**Atenção!** Pois os critérios são voltados tanto para as **soft skills** bem como para as hard skills.
+**Atenção!** Pois os critérios são voltados tanto para as **soft skills** bem como para as **hard skills**.
 
-Iremos avaliar com bastante critério:
-1. Nível de organização e sequência lógica de exploração dos dados
-1. Maturidade no correto entendimento dos conceitos fundamentais em ciência de dados e o julgamento apropriado de como você emprega as técnicas de exploração e modelagem de dados
+Iremos avaliar com bastante critério (em ordem de relevância maior para menor):
 1. Maturidade na codificação (**organização do código**, estilos e qualidade dos comentários)
-1. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
-1. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
+2. Maturidade no versionamento do seu código
+3. Nível de organização e sequência lógica de exploração dos dados
+4. Maturidade no correto entendimento dos conceitos fundamentais em ciência de dados e o julgamento apropriado de como você emprega as técnicas de exploração e modelagem de dados
+5. 
+6. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
+7. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
 
-## 1.4 Critérios que **NÂO preocupamos tanto** nessa etapa
+## 1.4 Critérios que **NãO nos preocupamos tanto** nessa etapa
 
 **Performance de modelo** 
 
