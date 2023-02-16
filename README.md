@@ -31,9 +31,8 @@ Iremos avaliar com bastante critério (em ordem de relevância maior para menor)
 2. Maturidade no versionamento do seu código
 3. Nível de organização e sequência lógica de exploração dos dados
 4. Maturidade no correto entendimento dos conceitos fundamentais em ciência de dados e o julgamento apropriado de como você emprega as técnicas de exploração e modelagem de dados
-5. 
-6. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
-7. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
+5. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
+6. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
 
 ## 1.4 Critérios que **NãO nos preocupamos tanto** nessa etapa
 
