@@ -7,7 +7,7 @@ Sugerimos que você **leia com bastante atenção** a todos as etapas, critério
 ## 1.1 Objetivo do desafio
 
 Avaliar de forma **qualitativa** quais são os pontos fortes e os pontos de gaps do candidato à vaga.
-O desafio não tem o intuito de ser de carácter eliminatório, mas sim uma forma mais pragmática de prover para o RH e os líderes da ihm stefanini informações sobre a experiência que você já tem na área. 
+O desafio tem o intuito de prover para o RH e os líderes da ihm stefanini, informações sobre a experiência que você já tem na área. 
 
 ## 1.2 Etapas do desafio
 
@@ -15,25 +15,25 @@ O desafio se divide nas seguintes etapas:
 
 1. Recebimento do link de acesso ao repositório (considerando que já cadastramos e liberamos o seu acesso previamente)
 1. Recebimento do link para baixar o dataset
-1. Desenvolvimento do desafio (analisar, explorar e modelar os dados)
-1. Criar uma apresentação em formato PowerPoint
-1. Submeter o(s) código(s) e o arquivo da apresentação ao mesmo repositório*(maiores detalhes vide seção 1.6)
+1. Desenvolvimento do desafio (analisar, explorar e modelar o problema)
+1. Criar uma apresentação em **formato PowerPoint**
+1. **Submeter** o(s) código(s) e o arquivo da apresentação ao mesmo repositório*(maiores detalhes vide seção 1.6)
 1. Informar pelo email eduardo.magalhaes@ihm.com.br que você concluiu o desafio
 1. Iremos combinar uma data da sua apresentação (a ser realizada remotamente via Microsoft Teams)
 1. Realizar a apresentação final para os stackholders da ihm stefanini
  
 ## 1.3 Critérios de avaliação mais relevantes
 
-**Atenção!** Pois os critérios são bem mais voltados para as **soft skills** do que as hard skills. Apesar de as hard skills serem base para que você possa gerar os *outcomes* necessários para demonstrar suas habilidades.
+**Atenção!** Pois os critérios são voltados tanto para as **soft skills** bem como para as hard skills.
 
-Iremos nos preocupar muito mais com:
+Iremos avaliar com bastante critério:
 1. Nível de organização e sequência lógica de exploração dos dados
 1. Maturidade no correto entendimento dos conceitos fundamentais em ciência de dados e o julgamento apropriado de como você emprega as técnicas de exploração e modelagem de dados
-1. Maturidade na codificação (organização do código, comentários e "explicabilidade")
-1. Skills de comunicação e apresentação
+1. Maturidade na codificação (**organização do código**, estilos e qualidade dos comentários)
+1. Skills de comunicação e apresentação (quando for apresentar o trabalho para os stakeholders)
 1. Por último e não menos importante, seus skills em Data Viz, ou seja, a qualidade e a clareza dos seus gráficos, bem como a facilidade de interpretação
 
-## 1.4 Critérios que não preocupamos tanto nessa etapa
+## 1.4 Critérios que **NÂO preocupamos tanto** nessa etapa
 
 **Performance de modelo** 
 
@@ -43,13 +43,12 @@ Sim, **esperamos que você faça um modelo razoável**, mas não "frite" os neur
 
 ## 1.5 Requisitos mínimos
 
-Para realizar o desafio, você precisa cumprir os seguintes requisitos:
-
+Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 
 1. **Linguagem de programação 100% Python**
-1. Escolha da IDE: livre escolha. Pode usar Jupyter, VSCode, Pycharm...
+1. Escolha da IDE: VSCode ou Pycharm (não aceitaremos os códigos em formato *.ipynb - Jupyter Notebook)
 1. Baixar os dados pelo link enviado no seu email e que também estão contidos na seção 2.2
-1. Apresentação em formato ppt
+1. Apresentação em formato PowerPoint
 
 
 ## 1.6 Entregáveis, Prazos e Submissão final
@@ -64,6 +63,7 @@ Para realizar o desafio, você precisa cumprir os seguintes requisitos:
 
 1. Pode usar Google, Kaggle, Stackoverflow à vontade, pois é assim que funciona na vida real!
 2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email eduardo.magalhaes@ihm.com.br
+3. Não é permitido entregar os códigos em formato *.ipynb, pois queremos ver a sua desenvoltura codificando apenas em formato *.py.
 
 ##--------------------------------------------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ Portanto, reforçando novamente: se preocupe menos com a performance do modelo.
 
 Mais detalhes sobre o cliente: é uma mineradora e o seu cliente de contato direto e quem está comprando o projeto piloto da sua empresa tem uma leve noção de análise de dados.
 
-## 2.2 O dataset
+## 2.2 O Dataset
 
 O dataset do problema a ser analisado se encontra na plataforma Kaggle, [nesse link](https://www.kaggle.com/edumagalhaes/quality-prediction-in-a-mining-process).
 
@@ -92,7 +92,7 @@ Lá você já encontrará toda a explicação mínima necessária para executar 
 
 ## 2.3 Considerações finais
 
-Busque:
+Busque trazer **diferenciais** para o seu desafio:
 
 1. Formular suas hipóteses de exploração dos dados e documentá-las (livre escolha de onde achar melhor)
 2. Descrever o que está vendo nas séries temporais? Há tendência/sazonalidade? Tem muito ou pouco ruído? E os outliers?
