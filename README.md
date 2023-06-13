@@ -18,7 +18,7 @@ O desafio se divide nas seguintes etapas:
 1. Desenvolvimento do desafio (analisar, explorar e modelar o problema)
 1. Criar uma apresentação em **formato PowerPoint**
 1. **Submeter** o(s) código(s) e o arquivo da apresentação ao mesmo repositório*(maiores detalhes vide seção 1.6)
-1. Informar pelo email eduardo.magalhaes@ihm.com.br que você concluiu o desafio
+1. Informar pelo email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br que você concluiu o desafio
 1. Iremos combinar uma data da sua apresentação (a ser realizada remotamente via Microsoft Teams)
 1. Realizar a apresentação final para os stackholders da ihm stefanini
  
