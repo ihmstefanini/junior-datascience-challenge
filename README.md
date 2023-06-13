@@ -64,7 +64,7 @@ Para realizar o desafio, você precisa **cumprir os seguintes requisitos**:
 ## 1.7 FAQ
 
 1. Pode usar Google, Kaggle, Stackoverflow à vontade, pois é assim que funciona na vida real!
-2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email eduardo.magalhaes@ihm.com.br
+2. Será permitido tirar dúvidas com as pessoas da ihm stefanini, apenas no que concerne ao entendimento da dinâmica do desafio. Não é permitido tirar dúvidas técnicas. O contato será via email leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
 3. Não é permitido entregar os códigos em formato *.ipynb, pois queremos ver a sua desenvoltura codificando apenas em formato *.py.
 
 ##--------------------------------------------------------------------------------------------------------------
@@ -105,4 +105,4 @@ Busque trazer **diferenciais** para o seu desafio:
 
 ## 2.4 Agradecimentos e dúvidas
 
-Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com eduardo.magalhaes@ihm.com.br
+Agradecemos o seu interesse de participar no desafio e qualquer dúvida, entre em contato pelo email com leonardo.oliveira@ihm.com.br e alexsander.costa@ihm.com.br
